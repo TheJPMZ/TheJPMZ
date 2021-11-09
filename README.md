@@ -7,8 +7,8 @@
    
    - [x] Enter a coding competition (Won)
    - [x] Finish a game
-   - [ ] Learn Flutter 
-   - [ ] Make the first draft of an App
+   - [x] Learn Flutter 
+   - [x] Make the first draft of an App
    - [ ] Finish part of my infinite list of pending projects
    - [ ] Publish the alpha for my videogame
 
