@@ -12,7 +12,7 @@
    - [ ] Finish part of my infinite list of pending projects
    - [ ] Publish the alpha for my videogame
 
- I love videogames, storytelling and my chihuahua 🌮
+My chihuahua is named 🌮
 
 ## Programming Languages Tierlist
 |Tier|Language|
