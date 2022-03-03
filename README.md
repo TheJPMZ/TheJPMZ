@@ -8,7 +8,7 @@
    - [ ] Publish the alpha for my videogame
    - [ ] Finish part of my infinite list of pending projects
    - [ ] Do a project with a new programming language (Probs, Go or Rust)
-   - [ ] Learn html, css and javascript
+   - [x] Learn html, css and javascript
    - [ ] Make my own Django documentation
 
 My chihuahua is named 🌮
