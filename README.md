@@ -1,15 +1,6 @@
-# I'm Joseph (JPMZ)
-
 # Who am I?
-💻Currently a Computer Science Student
-
-🎯Objectives for this year:
-   
-   - [ ] Publish the alpha for my videogame
-   - [ ] Finish part of my infinite list of pending projects
-   - [ ] Do a project with a new programming language (Probs, Go or Rust)
-   - [x] Learn html, css and javascript
-   - [ ] Make my own Django documentation
+💻 Currently, a Computer Science Student.
+🌌 Soon, president of the universe.
 
 My chihuahua is named 🌮
 
