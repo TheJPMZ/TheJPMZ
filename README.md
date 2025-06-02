@@ -1,5 +1,5 @@
 # Who am I?
-💻 Currently, a Computer Science Student.
+💻 Currently, Computer Scientist specialized in AI and Machine Learning.
 🌌 Soon, president of the universe.
 
 My chihuahua is named 🌮
@@ -23,5 +23,5 @@ Made a Cathoode-ray-tube simulator capable of displaying the route taken by elec
 
 Check below for my public repositories.
 
-## Contact Me: 
+## Send me a quirky joke at: 
 📩  Email:  monzon.jpmz@gmail.com
